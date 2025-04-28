@@ -11,7 +11,7 @@
 
 # Quick links
 
-[Project Roadmap](https://github.com/orgs/FreeBSDFoundation/projects/1/views/4)
+Project Roadmap - link temporarily removed while we do some maintenance on the project board. 
 
 [Work in Progress](https://github.com/orgs/FreeBSDFoundation/projects/1/views/8)
 
