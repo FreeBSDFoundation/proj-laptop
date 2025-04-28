@@ -11,7 +11,7 @@
 
 # Quick links
 
-Project Roadmap - link temporarily removed while we do some maintenance on the project board. 
+[Project Roadmap](https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates/Q1-2025-roadmap.pdf)
 
 [Work in Progress](https://github.com/orgs/FreeBSDFoundation/projects/1/views/8)
 
