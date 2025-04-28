@@ -9,7 +9,7 @@ We are making some changes to hopefully simplify and improve the way we are mana
 - Milestones will now reflect actual software releases (like "15.0" and "15.0MFC") instead of quarters
 - No more iteration labels on issues
 - More consistent use of "In Progress" and "Done" status indicators
-- A new quarterly roadmap document in our repository
+- A new [quarterly roadmap document](Q1-2025-roadmap.pdf) in our repository
 
 **Why we're making this change:**
 Our work is heavily dependent on external contributors and community processes, making fixed time-based iterations impractical. This shift allows us to better align with FreeBSD's release cycles and provide more accurate public information about our progress.
