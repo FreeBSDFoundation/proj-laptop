@@ -10,6 +10,7 @@
 | Output | Updates to FreeBSD 14.x and/or above that deliver contemporary WiFi, full audio, modern suspend and resume, improved graphics, Bluetooth, and other identified features.  Documentation, and how-to guides for the new functionality.  |
 
 # Quick links
+[Latest Updates](https://github.com/FreeBSDFoundation/proj-laptop/tree/main/monthly-updates)
 
 [Project Roadmap](https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates/Q1-2025-roadmap.pdf)
 
