@@ -6,7 +6,7 @@ We are making some changes to hopefully simplify and improve the way we are mana
 
 ### 1. Moving from Iterations to Release-Based Planning
 **What you'll see:**
-- Milestones will now reflect actual software releases (like "15.0" and "15.0MFC") instead of quarters
+- Milestones will now reflect actual software releases (like "[15.0](https://github.com/orgs/FreeBSDFoundation/projects/1/views/13)" and "15.0MFC") instead of quarters
 - No more iteration labels on issues
 - More consistent use of "In Progress" and "Done" status indicators
 - A new [quarterly roadmap document](Q1-2025-roadmap.pdf) in our repository
