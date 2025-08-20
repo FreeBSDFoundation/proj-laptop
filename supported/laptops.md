@@ -10,13 +10,13 @@ This means that:
 - Projects that we undertake will be tested on these laptops
 - We have a vendor contact for development support
 
-1. [Framework Laptop 13 - AMD Ryzen 7040™ Series](https://frame.work/ca/en/products/laptop-13-gen-amd/configuration/new)
+1. [Framework Laptop 13 - AMD Ryzen 7040™ Series](https://frame.work/ca/en/products/laptop-13-gen-amd/configuration/new) (no longer available new)
+1. [Framework Laptop 13 DIY Edition - AMD Ryzen™ 7040 Series](https://frame.work/ca/en/products/laptop-diy-13-gen-amd/configuration/new) (latest similar model)
 
 ## Candidates
 
 These laptops are under consideration for addition to the list.
 
-1. [Framework 13" Gen 13](https://frame.work/products/laptop-13-gen-amd/configuration/new)
 1. Framework 16" AMD
 1. [Lenovo X1 Carbon Gen 11](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-11-14-inch-intel/21hm002gus)
 1. Lenovo T series
