@@ -23,3 +23,4 @@ These laptops are under consideration for addition to the list.
 1. Dell Latitude 3440, 5450 (specific SKU via ThinOS support list)
 1. Framework 13" Ultra 1
 1. Lenovo X1 Carbon Ultra 1
+1. [Framework 13" AMD Ryzen™ AI 300 Series](https://frame.work/products/laptop13-diy-amd-ai300/configuration/new)
