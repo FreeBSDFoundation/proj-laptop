@@ -10,7 +10,7 @@ This means that:
 - Projects that we undertake will be tested on these laptops
 - We have a vendor contact for development support
 
-1. [Framework Laptop 13 - AMD Ryzen 7040™ Series](https://frame.work/ca/en/products/laptop-13-gen-amd/configuration/new)
+1. [Framework Laptop 13 - AMD Ryzen 7040™ Series](https://frame.work/products/laptop-13-gen-amd/configuration/new) ([DIY edition](https://frame.work/products/laptop-diy-13-gen-amd/configuration/new))
 
 ## Candidates
 
