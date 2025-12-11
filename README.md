@@ -84,28 +84,18 @@ Broadly speaking this work is focused on laptop user experience. However, many o
 
 ### Is overall UX being considered, or is it mainly just technical updates?
 
-We are mindful that UX is an important part of making FreeBSD functional and enjoyable for laptop users. We are framing the work as “[user stories](https://www.mountaingoatsoftware.com/agile/user-stories)” that describe what a user wants to be able to accomplish and why. This is a user-focused approach to defining functional requirements which will be familiar to anyone who has developed using Agile methodologies.
-
-### So are you running an Agile development methodology?
-
-Yes, we are using many of the features of Agile in running this program:
-
-* **Timeboxed iterations.** We will be working in month-long iterations that allow us enough time to deliver something meaningful but not so long that the scope becomes unwieldy.   
-* **Just in Time (JIT) planning.** We are unpacking manageable pieces of the work as we go to allow for us to benefit from the better understanding we’ll gain along the way, and to build a community engagement loop into the program. This will mean we can refocus as often as needed and with the best possible understanding of the context.   
-* **User Stories.** In every month’s iteration, we will aim to deliver completed user stories that will improve something concrete and usable in the laptop experience.  
-* **Demos.** We’ll show our completed work in the Laptop and Desktop Working Group meetings.
-
-It’s worth pointing out that this isn’t a full Agile process, more of a conscious “[Scrumbut](https://t2informatik.de/en/smartpedia/scrumbut/)” that evolves over time.
+We are mindful that UX is an important part of making FreeBSD functional and enjoyable for laptop users. We are framing the work as “[user stories](https://www.mountaingoatsoftware.com/agile/user-stories)” that describe what a user wants to be able to accomplish and why. This is a user-focused approach to defining functional requirements.
 
 ### How can I keep up to date with the work in progress and any new releases?
 
 There are several ways to keep yourself in the loop. 
 
 1. Read the [monthly updates](monthly-updates) that are posted into this repo.
-2. Attend the Laptop and Desktop Working Group meetings. Work done as part of the program will be shared in these calls (these will also be recorded).   
-3. Check out the public roadmap on GitHub. We are developing a practice of keeping the program work up to date and available for anyone to see.
+2. Attend the [Laptop and Desktop Working Group](https://wiki.freebsd.org/LaptopDesktopWorkingGroup) meetings. Work done as part of the program will be shared in these calls (these will also be recorded).   
+3. Check out the [public roadmap](monthly-updates) on GitHub. We are developing a practice of keeping the program work up to date and available for anyone to see.
 4. Sign up to the [Desktop mailing list](https://lists.freebsd.org/subscription/freebsd-desktop).
-5. Sign up to the FreeBSD Foundation newsletter. All announcements about the program will be included in our updates.
+5. Sign up to the [FreeBSD Foundation newsletter](https://mailchi.mp/freebsdfoundation.org/update_november25-17602827). All announcements about the program will be included in our updates.
+6. Attend, or watch recordings of, the [FreeBSD Foundation's Technology Team updates](https://www.youtube.com/@FreeBSDMeetings) that are given at developer summits cohosted at conferences such as BSDCan, EuroBSDCon, and AsiaBSDCon.
 
 ### How is this repo being used by the Foundation for this project?
 We are using this repo and associated GH project board as tools for capturing the roadmap and progress on work items at a high-level. We are not using it for source code management. The repo and project are read-only for the public.
