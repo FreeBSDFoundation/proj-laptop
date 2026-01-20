@@ -17,6 +17,7 @@ This means that:
 
 These laptops are under consideration for addition to the list.
 
+1. [Framework 12" Gen 13](https://frame.work/laptop12?tab=specs)
 1. [Framework 13" Gen 13](https://frame.work/products/laptop-13-gen-amd/configuration/new)
 1. Framework 16" AMD
 1. [Lenovo X1 Carbon Gen 11](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-11-14-inch-intel/21hm002gus)
