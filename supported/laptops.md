@@ -10,6 +10,7 @@ This means that:
 - Projects that we undertake will be tested on these laptops
 - We have a vendor contact for development support
 
+1. [Framework 13" AMD Ryzen™ AI 300 Series](https://frame.work/products/laptop13-diy-amd-ai300/configuration/new)
 1. [Framework Laptop 13 - AMD Ryzen™ 7040 Series](https://frame.work/laptop13?slug=laptop-13-gen-amd&tab=specs) ([DIY edition](https://frame.work/laptop13?slug=laptop-diy-13-gen-amd&tab=specs))
 
 ## Candidates
@@ -23,4 +24,3 @@ These laptops are under consideration for addition to the list.
 1. Dell Latitude 3440, 5450 (specific SKU via ThinOS support list)
 1. Framework 13" Ultra 1
 1. Lenovo X1 Carbon Ultra 1
-1. [Framework 13" AMD Ryzen™ AI 300 Series](https://frame.work/products/laptop13-diy-amd-ai300/configuration/new)
