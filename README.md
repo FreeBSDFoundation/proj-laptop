@@ -90,7 +90,7 @@ We are mindful that UX is an important part of making FreeBSD functional and enj
 
 There are several ways to keep yourself in the loop. 
 
-1. Read the [monthly updates](monthly-updates) that are posted into this repo.
+1. Read the [quarterly updates](quarterly-updates) that are posted into this repo.
 2. Attend the [Laptop and Desktop Working Group](https://wiki.freebsd.org/LaptopDesktopWorkingGroup) meetings. Work done as part of the program will be shared in these calls (these will also be recorded).   
 3. Check out the [public roadmap](monthly-updates) on GitHub. We are developing a practice of keeping the program work up to date and available for anyone to see.
 4. Sign up to the [Desktop mailing list](https://lists.freebsd.org/subscription/freebsd-desktop).
